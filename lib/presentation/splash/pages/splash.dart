@@ -1,9 +1,8 @@
 
+import 'package:ecommercelocal/core/configs/assets/app_vectors.dart';
 import 'package:ecommercelocal/core/configs/theme/app_colors.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-
-import '../../core/configs/assets/app_vectors.dart';
 
 class SplashPage extends StatelessWidget {
   const SplashPage({super.key});

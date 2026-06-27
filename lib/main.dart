@@ -1,4 +1,4 @@
-import 'package:ecommercelocal/splash/pages/splash.dart';
+ import 'package:ecommercelocal/presentation/splash/pages/splash.dart';
 import 'package:flutter/material.dart';
 
 import 'core/configs/theme/app_theme.dart';
